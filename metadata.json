@@ -1,0 +1,8 @@
+{
+  "name": "WaveLink",
+  "description": "A bright, warm, and inviting social network featuring real-time feed, community notice board & events, creator monetization, and media studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
